@@ -1,7 +1,7 @@
-<?php $company = "Mike's Landscapeee";
-$phone = "1(800) 232-2323";
-	$address1 = "100 give a fucks st";
-	$address2 = "i don' ca, 90210";
+<?php $company = "CAFE GEORGIO";
+$phone = "(412) 833-7000";
+	$address1 = "260 FROEBE RD";
+	$address2 = "VENETIA, PA 15367";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
